@@ -5,7 +5,7 @@ ___
 <!-- Main Logo -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74658309/179363100-f119d8b7-849f-4a6c-9dba-5c2d30047215.svg"height="200px" width="700px"></p>
 
-:herb: **`TryThisOnBrowser`** is an open source demo platform made by **`Kang Minchul`**, **`Kim Jaeuk`**. Our project provides the services that
+:herb: **`TryThisOnBrowser`** is an open source demo platform made by `Kang Minchul`, `Kim Jaeuk`. Our project provides the services that
 registering, searching, testing and reporting for any open sources. You can easily upload and try out various open sources like [gcc](http://gcc.gnu.org/), [clang](https://clang.llvm.org/), [linux distros](https://distrowatch.com/), [uftrace](https://github.com/namhyung/uftrace), etc and reach out to maintainers of these projects through this platform. Through the below badge, you can visit our website and try to enjoy searching interesting open sources without any dependency packages.
 
 <!-- Badge -->
