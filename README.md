@@ -19,6 +19,6 @@ registering, searching, testing and reporting for any open sources. You can easi
 
 ## How to Sign up
 
-:herb: You can sign in with **`google`** or **`github`**. Otherwise, you'll be able to sign up manually with `username`, `password`, and `email`. If you want to delete your accout, go to user settings, and press `Delete your ID` button.
+:herb: You can sign in with **`google`** or **`github`**. Otherwise, you'll be able to sign up manually with `username`, `password`, and `email`. If you want to delete your accout, go to `user settings`, and press `Delete your ID` button.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74658309/179385000-6cf8e2fd-8e7c-41ca-9718-16a4dac909f3.gif" height="400px" width="300"></p>
