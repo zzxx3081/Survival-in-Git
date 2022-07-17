@@ -19,6 +19,15 @@ registering, searching, testing and reporting for any open sources. You can easi
 
 ## How to Sign up
 
-:herb: You can sign in with **`google`** or **`github`**. Otherwise, you'll be able to sign up manually with `username`, `password`, and `email`. If you want to delete your accout, go to `user settings`, and press `Delete your ID` button.
+:herb: You can sign in with **`google`** or **`github`**. Otherwise, you'll be able to sign up manually with `username`, `password`, and `email`. If you want to delete your accout, go to `user settings`, and press `Delete your ID` button. 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74658309/179385000-6cf8e2fd-8e7c-41ca-9718-16a4dac909f3.gif" height="400px" width="300"></p>
+
+## Most Popular Projects
+
+:herb: Once you visit our website, you can see `Most Popular Projects` below advertising banner. It shows the top three open sources with the highest number of **likes** in our platform. You'll be able to know that what open sources other developers prefer. Moreover, you are free to test them and communicate with other main tainers about their open sources.
+
+:herb: You'll see `Hashtags` for some open sources. It tells technolocal imformation used in the open source. Thus, you'll expect what skills included in there open source.
+
+:herb: `Mark of Heart` means the `number of likes` for some open source. All of our members can record likes if they are interesting for the open source.
+
