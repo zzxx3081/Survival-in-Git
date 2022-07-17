@@ -1,14 +1,10 @@
 [![](https://img.shields.io/badge/Kang_Minchul-181717?style=&logo=github&logoColor=white)](https://github.com/kangtegong) [![](https://img.shields.io/badge/Kim_Jaeuk-220052?style=&logo=github&logoColor=white)](https://github.com/zzxx3081)
 
----
-
 <!-- Main Logo -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74658309/179363100-f119d8b7-849f-4a6c-9dba-5c2d30047215.svg"height="200px" width="700px"></p>
 
 :herb: **`TryThisOnBrowser`** is an open source demo platform made by `Kang Minchul`, `Kim Jaeuk`. Our project provides the services that
 registering, searching, testing and reporting for any open sources. You can easily upload and try out various open sources like [gcc](http://gcc.gnu.org/), [clang](https://clang.llvm.org/), [linux distros](https://distrowatch.com/), [uftrace](https://github.com/namhyung/uftrace), etc and reach out to maintainers of these projects through this platform. Through the below badge, you can visit our website and try to enjoy searching interesting open sources without any dependency packages.
-
-<!-- Badge -->
 
 |                                                                         `Project Link`                                                                          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -31,7 +27,7 @@ registering, searching, testing and reporting for any open sources. You can easi
 
 :herb: Once you visit our website, you can see `Most Popular Projects` below advertising banner. It shows the top three open sources with the highest number of **likes** in our platform. You'll be able to know that what open sources other developers prefer. Moreover, you are free to test them and communicate with other main tainers about their open sources.
 
-:herb: You'll see `Hashtags` for some open sources. It tells technolocal impormation used in the open source. Thus, you'll expect what skills included in there open source.
+:herb: You'll see `Hashtags` for some open sources. It tells technolocal information used in the open source. Thus, you'll expect what skills included in there open source.
 
 :herb: `Mark of Heart` means the `number of likes` for some open source. All of our members can record likes if they are interested for the open source.
 
@@ -55,7 +51,6 @@ registering, searching, testing and reporting for any open sources. You can easi
 
 :herb: It is the function of move to main page. If you want to move, click this tap.
 
-
 ## Search open sources
 
 :herb: If you want to find any open sources or need to inquire all of open sources list, you can use `Search open sources` placed on the left site of main page. This means that you'll be able to show seven open sources per pages like below figure.
@@ -69,3 +64,18 @@ registering, searching, testing and reporting for any open sources. You can easi
 <p align="center"><img src="https://user-images.githubusercontent.com/74658309/179418891-c2ef0f54-4ef5-4ec2-97b9-9c8d94a35ade.png"></p>
 
 :herb: If you click the menu `My containers`, you can inqure all of your open sorces you pressed the `likes` button. In addition, It is possible to demonstrate these open sources or delete certain records. If you press `Delete` button, it'll be changed `Open Sources You May Like`.
+
+## About
+
+:herb: It is a guide for the platform. If you need more information for our website, read this.
+
+# How to upload your open source
+
+:herb: You can either upload your opensource with your **Dockerfile**, or **installation script**. Note that you should **sign up** before upload your project.
+If you click `+ Create New Project` above, you will see `Create with installation script`, and `Create with Dockerfile`.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74658309/179420106-eb7f85b2-6edb-465c-9bf5-4b29012a995b.png"height="180px" width="200px" ></p>
+
+## Create with installation script
+
+## Create with Dockerfile
