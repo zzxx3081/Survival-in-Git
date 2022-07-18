@@ -78,4 +78,37 @@ If you click `+ Create New Project` above, you will see `Create with installatio
 
 ## Create with installation script
 
+:herb: This is a way to upload your opensource with installation script.
+First type `Author`, `Project name`, `Tag` (of the image), `Contact point`, `Project description` and `Hash Tag`. Then choose your `Base OS` you want to install and write out installation script.
+**Note that** the script should be detailed and precise(otherwise) because otherwise it would not be installed.
+Once script ran successfully, `Trythisonbrowser` will create an docker image based on your script. please refer to the figure below.
+
+|              Items               |                    Description                     |
+| :------------------------------: | :------------------------------------------------: |
+|             `Author`             |            Name of Open source Develper            |
+|          `Project name`          |           Your project name (Image Name)           |
+|              `Tag`               |     Version of open source (Ex. latest, 18.04)     |
+|         `Contact point`          |                Email of Maintianer                 |
+|      `Project description`       | Your project menual or How to use your open source |
+|            `Hash Tag`            |    Technical information included your project     |
+|            `Base OS`             |        Operation System you want to install        |
+| `Enter your installation script` |  Installation script of your open source project   |
+
+### Example: [uftrace](https://github.com/namhyung/uftrace)
+
+<img src="https://user-images.githubusercontent.com/74658309/179465948-61682a4a-f58e-45b4-9e48-c2cee61fa83d.png">
+
+<img src="https://user-images.githubusercontent.com/74658309/179468765-f367c3be-fdfd-4bf0-8c8f-53328f1cbe14.gif">
+
 ## Create with Dockerfile
+
+:herb: If your project has Dockerfile, just upload your Dockerfile like below. Then `Trythisonbrowser` will create an docker image based on your Dockerfile.
+
+Note that Except for Dockerfile upload, the input list is the same as above.
+
+### Example: cURL project
+
+<img src="https://user-images.githubusercontent.com/74658309/179470629-4dbbe73a-a71a-41be-9ef8-dd25e2a82400.png">
+<img src="https://user-images.githubusercontent.com/74658309/179470828-2da35cf3-fd35-4342-bac4-78a3d0c0a5d1.png">
+
+#
