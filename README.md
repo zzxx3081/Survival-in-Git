@@ -1,6 +1,5 @@
 [![](https://img.shields.io/badge/Kang_Minchul-181717?style=&logo=github&logoColor=white)](https://github.com/kangtegong) [![](https://img.shields.io/badge/Kim_Jaeuk-220052?style=&logo=github&logoColor=white)](https://github.com/zzxx3081)
 
-<!-- Main Logo -->
 <p align="center"><img src="https://user-images.githubusercontent.com/74658309/179363100-f119d8b7-849f-4a6c-9dba-5c2d30047215.svg"height="200px" width="700px"></p>
 
 :herb: **`TryThisOnBrowser`** is an open source demo platform made by `Kang Minchul`, `Kim Jaeuk`. Our project provides the services that
@@ -10,7 +9,6 @@ registering, searching, testing and reporting for any open sources. You can easi
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [![TryThisOnBrowser_logo](https://user-images.githubusercontent.com/74658309/179361886-25a20165-bd00-462a-84d4-1b5024e5a533.svg)](http://trythisonbrowser.com/) |
 
-<!-- Sign up-->
 </br>
 
 # How to Sign up
@@ -111,4 +109,39 @@ Once script ran successfully, `Trythisonbrowser` will create an docker image bas
 <img src="https://user-images.githubusercontent.com/74658309/179470629-4dbbe73a-a71a-41be-9ef8-dd25e2a82400.png">
 <img src="https://user-images.githubusercontent.com/74658309/179470828-2da35cf3-fd35-4342-bac4-78a3d0c0a5d1.png">
 
-#
+# How to test
+
+:herb: If you're interested in some open sources, press the button `Try`. Then you can move to `Try page` about these open sources. The page consists of three items. (`Project information`, `Terminal` and `Commant box`)
+
+### Project information (sample. Git)
+
+<img src="https://user-images.githubusercontent.com/74658309/179484775-72fce8f4-3e58-4725-ad52-5663f2af01f4.png">
+
+:herb: Project information has `Contact Maintainer`, `Likes`, `OpenSource Not Working`, `Project description` and `Hash tag`. You'll be able to know about the project and commnicate with its developer by mailing through botton of `Contact Maintainer`.
+Moreover, If you find out any bugs or problems for the open source, you can report to other users through button of `OpenSource Not Working`.
+
+### Terminal (sample. Git)
+
+<img src="https://user-images.githubusercontent.com/74658309/179515108-033f6df9-6319-4b17-88e4-f17b0ee21d79.gif">
+
+:herb: You can test the open source you choose in `Terminal` without intalling any file or packeges. In additon, you will be able to experience excellent functions created by maintainers.
+
+### Commant box
+
+<img src="https://user-images.githubusercontent.com/74658309/179516094-3821bc16-80c0-45b3-abae-df06c063bf99.png">
+
+:herb: If you have question about open source you are testing, you can use `Commant box`.
+
+# Appendix
+
+:herb: Our platfrom have many open sources registered by maintainers all over the world. Visit our project and connect with various developers.
+
+### Example 1 (Python Primality_test Algorithm)
+
+![git pty](https://user-images.githubusercontent.com/74658309/179555482-32547e9b-16b5-491b-954f-bc45fd016c8b.gif)
+
+### Example 2 (Perl Euclidean Algorithm)
+
+### Example 3 (Ruby Fibonachi_sequence)
+
+![git ruby](https://user-images.githubusercontent.com/74658309/179535880-79d35ae1-b4c7-4d2a-9201-aed121195717.gif)
