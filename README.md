@@ -29,7 +29,7 @@ registering, searching, testing and reporting for any open sources. You can easi
 
 :herb: You'll see `Hashtags` for some open sources. It tells technolocal information used in the open source. Thus, you'll expect what skills included in there open source.
 
-:herb: `Mark of Heart` means the `number of likes` for some open source. All of our members can record likes if they are interested for the open source.
+:herb: `Mark of heart` means the `number of likes` for some open source. All of our members can record likes if they are interested for the open source.
 
 ## Open Sources You May Like
 
@@ -104,7 +104,7 @@ Once script ran successfully, `Trythisonbrowser` will create an docker image bas
 
 :herb: If your project has Dockerfile, just upload your Dockerfile like below. Then `Trythisonbrowser` will create an docker image based on your Dockerfile.
 
-Note that Except for Dockerfile upload, the input list is the same as above.
+:herb: Note that Except for Dockerfile upload, the input list is the same as above.
 
 ### Example: cURL project
 
